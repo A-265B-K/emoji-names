@@ -30,7 +30,7 @@ pub fn available_languages() -> Vec<&'static str> {
 
 /// Replaces every emoji in `input` with its CLDR short name in `lang`.
 /// Returns None if that language was not enabled as a feature.
-pub fn replace_emoji(input: &str, lang: &str) -> Option<String> {
+pub fn replace_emoji(input: &str, lang: &str, opening_bracket: &str, closing_bracket: &str) -> Option<String> {
     let table = tables().get(lang)?;
     let chars: Vec<char> = input.chars().collect();
     let mut out = String::with_capacity(input.len());
@@ -50,7 +50,9 @@ pub fn replace_emoji(input: &str, lang: &str) -> Option<String> {
 
         match matched {
             Some((end, name)) => {
+                out.push_str(opening_bracket);
                 out.push_str(name);
+                out.push_str(closing_bracket);
                 i = end;
             }
             None => {
