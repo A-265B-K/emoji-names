@@ -16,9 +16,13 @@ done | sort)
     echo "$names" | sed 's/.*/& = []/'
 } > emoji-names/features.toml
 
-{
-    curl  https://www.unicode.org/license.txt
-} > UNICODE_LICENSE.txt
+curl -L --fail --show-error \
+    https://www.unicode.org/license.txt \
+    --output UNICODE_LICENSE
+
+curl -L --fail --show-error \
+    https://www.mozilla.org/media/MPL/2.0/index.f75d2927d3c1.txt \
+    --output LICENSE
 
 {
     echo "# Emoji Names"
@@ -32,3 +36,4 @@ done | sort)
     echo "$names" | sed 's/.*/- &/'
     echo ""
 } > README.md
+cp README.md emoji-names/README.md

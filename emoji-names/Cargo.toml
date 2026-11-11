@@ -1,9 +1,14 @@
 [package]
 name = "emoji-names"
 version = "0.1.0"
-edition = "2021"
+edition = "2024"
+description = "A small Rust crate that replaces emojis in a string with their CLDR English name"
+repository = "https://github.com/A-265B-K/emoji-names.git"
+license = "MPL-2.0 AND Unicode-3.0"
+keywords = ["communication", "emoji"]
 
 [dependencies]
+roxmltree = "0.20"
 
 [build-dependencies]
 roxmltree = "0.20"
