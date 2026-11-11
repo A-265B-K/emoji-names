@@ -1,6 +1,6 @@
 [package]
 name = "emoji-names"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A small Rust crate that replaces emojis in a string with their CLDR English name"
 repository = "https://github.com/A-265B-K/emoji-names.git"
