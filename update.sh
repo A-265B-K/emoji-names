@@ -14,7 +14,7 @@ done | sort)
     echo "$names" | sed 's/.*/"&"/' | paste -sd, -
     echo "]"
     echo "$names" | sed 's/.*/& = []/'
-} > features.toml
+} > emoji-names/features.toml
 
 {
     curl  https://www.unicode.org/license.txt
