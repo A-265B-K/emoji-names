@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2026 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-3.0
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="mni"/>
+	</identity>
+	<annotations>
+		<annotation cp="‾">ওভরলাইন</annotation>
+		<annotation cp="‾" type="tts">ওভরলাইন</annotation>
+		<annotation cp="‽">ইন্টরোবাং</annotation>
+		<annotation cp="‽" type="tts">ইন্টরোবাং</annotation>
+		<annotation cp="‸">কেরেট</annotation>
+		<annotation cp="‸" type="tts">কেরেট</annotation>
+		<annotation cp="⁂">অষ্টরিজম</annotation>
+		<annotation cp="⁂" type="tts">অষ্টরিজম</annotation>
+		<annotation cp="|">চপয়ুংবা লৈই</annotation>
+		<annotation cp="|" type="tts">চপয়ুংবা লৈই</annotation>
+		<annotation cp="~">টিল্ডু</annotation>
+		<annotation cp="~" type="tts">টিল্ডু</annotation>
+		<annotation cp="🔫">ঈশিংকাপ্পী নোংমৈ</annotation>
+		<annotation cp="🔫" type="tts">ঈশিংকাপ্পী নোংমৈ</annotation>
+	</annotations>
+</ldml>

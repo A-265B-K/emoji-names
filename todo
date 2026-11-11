@@ -1,0 +1,4 @@
+Improve bash script to automatically pull new version to keep it up to date
+Allow users to add a string before and after each returned value
+Add fallback to English if an enabled language doesn't have a name for it
+Add a license for the xml files

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2026 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-3.0
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="ca"/>
+		<territory type="ES"/>
+		<variant type="VALENCIA"/>
+	</identity>
+	<annotations>
+		<annotation cp="😅" draft="unconfirmed">cara | cara somrient amb una gota de suor | emocionada | emocionat | estrés | estressada | estressat | nerviós | nerviosa | obert | somriure | suor | suor freda</annotation>
+		<annotation cp="🤯" draft="unconfirmed">cap que explota | estupefacta | estupefacte | explotar | impossible | impressionada | impressionat | sorprés | sorpresa</annotation>
+		<annotation cp="😟" draft="unconfirmed">cara | cara de preocupació | estrés | nerviós | nerviosa | nervis | preocupació | preocupada | preocupat | sorprés | sorpresa</annotation>
+		<annotation cp="😮" draft="unconfirmed">apa! | boca | bocabadada | bocabadat | cara | cara amb la boca oberta | estupefacta | estupefacte | increïble | no et crec | oberta | sorprés | sorpresa</annotation>
+		<annotation cp="😯" draft="unconfirmed">atònit | atònita | cara | cara de sorpresa | Déu meu | èpic | oh! | sorprés | sorpresa</annotation>
+		<annotation cp="😱" draft="unconfirmed">cara | cara que crida de por | crit de por | espantada | espantat | Munch | pànic | por | sorprés | sorpresa | temorós | temorosa | terror</annotation>
+		<annotation cp="👹" draft="unconfirmed">cara | conte | conte de fades | criatura | dimoni | esgarrifós | fantasia | japonés | màscara | monstre | ogre</annotation>
+		<annotation cp="👹" type="tts" draft="unconfirmed">ogre japonés</annotation>
+		<annotation cp="👺" draft="unconfirmed">cara | conte | conte de fades | criatura | enfadat | fantasia | follet | japonés | malvat | màscara | monstre</annotation>
+		<annotation cp="👺" type="tts" draft="unconfirmed">follet japonés</annotation>
+		<annotation cp="🙀" draft="unconfirmed">animal | cara | cara de gat espantat | espantat | gat | oh | por | sorprés | sorpresa</annotation>
+		<annotation cp="🙀" type="tts" draft="unconfirmed">gat sorprés</annotation>
+		<annotation cp="👶" draft="unconfirmed">bebé | bebés | embarassada | jove | nadó | nounat</annotation>
+	</annotations>
+</ldml>

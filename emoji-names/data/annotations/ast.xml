@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2026 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-3.0
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="ast"/>
+	</identity>
+	<annotations>
+		<annotation cp="🤣">cara | risa | rodando | rodando pel suelu de risa | suelu</annotation>
+		<annotation cp="🤣" type="tts">rodando pel suelu de risa</annotation>
+		<annotation cp="😂">allegría | cara | cara llorando d’allegría | llárima | risa</annotation>
+		<annotation cp="😂" type="tts">cara llorando d’allegría</annotation>
+		<annotation cp="😘">besu | cara | cara tirando un besu</annotation>
+		<annotation cp="😘" type="tts">cara tirando un besu</annotation>
+		<annotation cp="😗">besu | cara | cara besando</annotation>
+		<annotation cp="😗" type="tts">cara besando</annotation>
+		<annotation cp="☺">cara sorriendo</annotation>
+		<annotation cp="☺" type="tts">cara sorriendo</annotation>
+		<annotation cp="🤳">selfie</annotation>
+		<annotation cp="🤳" type="tts">selfie</annotation>
+		<annotation cp="👅">cuerpu | llingua</annotation>
+		<annotation cp="👅" type="tts">llingua</annotation>
+		<annotation cp="👄">boca | llabios</annotation>
+		<annotation cp="👄" type="tts">boca</annotation>
+		<annotation cp="💏">besu</annotation>
+		<annotation cp="💏" type="tts">besu</annotation>
+		<annotation cp="👪">familia</annotation>
+		<annotation cp="👪" type="tts">familia</annotation>
+		<annotation cp="💍">aniellu | diamante</annotation>
+		<annotation cp="💍" type="tts">aniellu</annotation>
+		<annotation cp="💎">diamante | piedra preciosa | xema | xoya</annotation>
+		<annotation cp="💎" type="tts">piedra preciosa</annotation>
+		<annotation cp="0⃣" type="tts">tecles: 0</annotation>
+		<annotation cp="1⃣" type="tts">tecles: 1</annotation>
+		<annotation cp="2⃣" type="tts">tecles: 2</annotation>
+		<annotation cp="3⃣" type="tts">tecles: 3</annotation>
+		<annotation cp="4⃣" type="tts">tecles: 4</annotation>
+		<annotation cp="5⃣" type="tts">tecles: 5</annotation>
+		<annotation cp="6⃣" type="tts">tecles: 6</annotation>
+		<annotation cp="7⃣" type="tts">tecles: 7</annotation>
+		<annotation cp="8⃣" type="tts">tecles: 8</annotation>
+		<annotation cp="9⃣" type="tts">tecles: 9</annotation>
+	</annotations>
+</ldml>

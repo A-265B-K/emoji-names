@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
+<!-- Copyright © 1991-2026 Unicode, Inc.
+For terms of use, see http://www.unicode.org/copyright.html
+SPDX-License-Identifier: Unicode-3.0
+CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
+-->
+<ldml>
+	<identity>
+		<version number="$Revision$"/>
+		<language type="sat"/>
+	</identity>
+	<annotations>
+		<annotation cp="‾">ᱚᱵᱷᱟᱨ ᱞᱟᱹᱭᱤᱱ</annotation>
+		<annotation cp="‾" type="tts">ᱚᱵᱷᱟᱨ ᱞᱟᱹᱭᱤᱱ</annotation>
+		<annotation cp="‽">ᱤᱱᱴᱟᱨᱚᱵᱮᱝᱜᱽ</annotation>
+		<annotation cp="‽" type="tts">ᱤᱱᱴᱟᱨᱚᱵᱮᱝᱜᱽ</annotation>
+		<annotation cp="‸">ᱠᱮᱨᱮᱴ</annotation>
+		<annotation cp="‸" type="tts">ᱠᱮᱨᱮᱴ</annotation>
+		<annotation cp="⁂">ᱟᱥᱴᱟᱨᱤᱡᱽᱢ</annotation>
+		<annotation cp="⁂" type="tts">ᱟᱥᱴᱟᱨᱤᱡᱽᱢ</annotation>
+		<annotation cp="😀">ᱞᱟᱱᱫᱟ | ᱞᱟᱱᱫᱟ ᱪᱮᱦᱨᱟ | ᱢᱚᱲᱟ | ᱤᱥᱤᱲ</annotation>
+		<annotation cp="😀" type="tts">ᱞᱟᱱᱫᱟ ᱪᱮᱦᱨᱟ</annotation>
+		<annotation cp="😃" draft="unconfirmed">ᱢᱟᱨᱟᱝ ᱢᱮᱫ ᱥᱟᱞᱟᱜ ᱢᱩᱞᱩᱡ ᱞᱟᱱᱫᱟ</annotation>
+		<annotation cp="😃" type="tts" draft="unconfirmed">ᱢᱟᱨᱟᱝ ᱢᱮᱫ ᱥᱟᱞᱟᱜ ᱢᱩᱞᱩᱡ ᱞᱟᱱᱫᱟ</annotation>
+		<annotation cp="😄" draft="unconfirmed">ᱢᱚᱲᱟ ᱤᱥᱤᱲ ᱠᱟᱫ ᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱞᱮᱠᱷᱟ ᱢᱮᱫ</annotation>
+		<annotation cp="😄" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱤᱥᱤᱲ ᱠᱟᱫ ᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱞᱮᱠᱷᱟ ᱢᱮᱫ</annotation>
+		<annotation cp="😁" draft="unconfirmed">ᱤᱥᱤᱲ ᱢᱚᱪᱟ</annotation>
+		<annotation cp="😁" type="tts">ᱤᱥᱤᱲ ᱢᱚᱪᱟ</annotation>
+		<annotation cp="😆" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱪᱟ</annotation>
+		<annotation cp="😆" type="tts" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱪᱟ</annotation>
+		<annotation cp="😅" draft="unconfirmed">ᱩᱫᱽᱜᱟᱹᱨ ᱥᱟᱶᱛᱮ ᱰᱟᱴᱟ ᱤᱥᱤᱲ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😅" type="tts" draft="unconfirmed">ᱩᱫᱽᱜᱟᱹᱨ ᱥᱟᱶᱛᱮ ᱰᱟᱴᱟ ᱤᱥᱤᱲ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤣" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱜᱩᱲᱫᱟᱹᱣ</annotation>
+		<annotation cp="🤣" type="tts" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱜᱩᱲᱫᱟᱹᱣ</annotation>
+		<annotation cp="😂" draft="unconfirmed">ᱢᱚᱡᱽ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😂" type="tts" draft="unconfirmed">ᱢᱚᱡᱽ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🙂" draft="unconfirmed">ᱱᱟᱥᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱞᱮᱠᱷᱟ ᱪᱮᱦᱨᱟ</annotation>
+		<annotation cp="🙂" type="tts" draft="unconfirmed">ᱱᱟᱥᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱞᱮᱠᱷᱟ ᱪᱮᱦᱨᱟ</annotation>
+		<annotation cp="🙃" draft="unconfirmed">ᱩᱞᱴᱟᱹ ᱪᱮᱦᱨᱟ</annotation>
+		<annotation cp="🙃" type="tts" draft="unconfirmed">ᱩᱞᱴᱟᱹ ᱪᱮᱦᱨᱟ</annotation>
+		<annotation cp="🫠" draft="unconfirmed">ᱛᱚᱨᱲᱟᱣ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫠" type="tts" draft="unconfirmed">ᱛᱚᱨᱲᱟᱣ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😉" draft="unconfirmed">ᱵᱤᱱᱰᱩᱡ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😉" type="tts" draft="unconfirmed">ᱵᱤᱱᱰᱩᱡ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😊" draft="unconfirmed">ᱞᱟᱸᱫᱟ ᱢᱚᱲᱟ ᱥᱟᱶ ᱞᱟᱸᱫᱟ ᱢᱮᱫ</annotation>
+		<annotation cp="😊" type="tts" draft="unconfirmed">ᱞᱟᱸᱫᱟ ᱢᱚᱲᱟ ᱥᱟᱶ ᱞᱟᱸᱫᱟ ᱢᱮᱫ</annotation>
+		<annotation cp="😇" draft="unconfirmed">ᱦᱟᱞᱚ ᱥᱟᱶᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😇" type="tts" draft="unconfirmed">ᱦᱟᱞᱚ ᱥᱟᱶᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥰" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱞᱟᱱᱫᱟ</annotation>
+		<annotation cp="🥰" type="tts" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱞᱟᱱᱫᱟ</annotation>
+		<annotation cp="😍" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱲᱟ ᱥᱟᱶᱛᱮ ᱫᱩᱞᱟᱹᱲ ᱢᱮᱫ</annotation>
+		<annotation cp="😍" type="tts" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱲᱟ ᱥᱟᱶᱛᱮ ᱫᱩᱞᱟᱹᱲ ᱢᱮᱫ</annotation>
+		<annotation cp="🤩" draft="unconfirmed">ᱤᱯᱤᱞ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤩" type="tts" draft="unconfirmed">ᱤᱯᱤᱞ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😘" draft="unconfirmed">ᱪᱚᱜᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😘" type="tts" draft="unconfirmed">ᱪᱚᱜᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😗" draft="unconfirmed">ᱪᱚᱜ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😗" type="tts" draft="unconfirmed">ᱪᱚᱜ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="☺" draft="unconfirmed">ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="☺" type="tts" draft="unconfirmed">ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😚" draft="unconfirmed">ᱢᱮᱫ ᱵᱚᱸᱫ ᱠᱟᱛᱮ ᱪᱚᱜ</annotation>
+		<annotation cp="😚" type="tts" draft="unconfirmed">ᱢᱮᱫ ᱵᱚᱸᱫ ᱠᱟᱛᱮ ᱪᱚᱜ</annotation>
+		<annotation cp="😙" draft="unconfirmed">ᱪᱚᱜ ᱢᱚᱲᱟ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="😙" type="tts" draft="unconfirmed">ᱪᱚᱜ ᱢᱚᱲᱟ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="🥲" draft="unconfirmed">ᱢᱮᱫ ᱫᱟᱜ ᱡᱚᱨᱚ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥲" type="tts" draft="unconfirmed">ᱢᱮᱫ ᱫᱟᱜ ᱡᱚᱨᱚ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😋" draft="unconfirmed">ᱢᱚᱡᱽ ᱡᱚᱢ</annotation>
+		<annotation cp="😋" type="tts" draft="unconfirmed">ᱢᱚᱡᱽ ᱡᱚᱢ</annotation>
+		<annotation cp="😛" draft="unconfirmed">ᱢᱚᱲᱟ ᱥᱟᱞᱟᱜ ᱟᱞᱟᱝ</annotation>
+		<annotation cp="😛" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱥᱟᱞᱟᱜ ᱟᱞᱟᱝ</annotation>
+		<annotation cp="😜" draft="unconfirmed">ᱟᱞᱟᱝ ᱥᱟᱞᱟᱜ ᱢᱚᱲᱟ ᱵᱤᱱᱰᱩᱡ</annotation>
+		<annotation cp="😜" type="tts" draft="unconfirmed">ᱟᱞᱟᱝ ᱥᱟᱞᱟᱜ ᱢᱚᱲᱟ ᱵᱤᱱᱰᱩᱡ</annotation>
+		<annotation cp="🤪" draft="unconfirmed">ᱯᱟᱜᱽᱞᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤪" type="tts" draft="unconfirmed">ᱯᱟᱜᱽᱞᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😝" draft="unconfirmed">ᱟᱞᱟᱝ ᱟᱨ ᱵᱟᱱᱴᱷᱤᱠ</annotation>
+		<annotation cp="😝" type="tts" draft="unconfirmed">ᱟᱞᱟᱝ ᱟᱨ ᱵᱟᱱᱴᱷᱤᱠ</annotation>
+		<annotation cp="🤑" draft="unconfirmed">ᱯᱩᱭᱥᱟᱹ ᱢᱚᱪᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤑" type="tts" draft="unconfirmed">ᱯᱩᱭᱥᱟᱹ ᱢᱚᱪᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤗" draft="unconfirmed">ᱠᱷᱩᱞᱟᱹᱛᱤ ᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤗" type="tts" draft="unconfirmed">ᱠᱷᱩᱞᱟᱹᱛᱤ ᱛᱮ ᱞᱟᱱᱫᱟᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤭" draft="unconfirmed">ᱢᱚᱪᱟ ᱨᱮ ᱛᱤ ᱫᱚᱦᱚ</annotation>
+		<annotation cp="🤭" type="tts" draft="unconfirmed">ᱢᱚᱪᱟ ᱨᱮ ᱛᱤ ᱫᱚᱦᱚ</annotation>
+		<annotation cp="🫢" draft="unconfirmed">ᱢᱩᱸ ᱨᱮ ᱛᱤ ᱫᱚᱦᱚ ᱟᱨ ᱠᱷᱩᱞᱟᱹ ᱢᱮᱫ ᱞᱮᱠᱷᱟ</annotation>
+		<annotation cp="🫢" type="tts" draft="unconfirmed">ᱢᱩᱸ ᱨᱮ ᱛᱤ ᱫᱚᱦᱚ ᱟᱨ ᱠᱷᱩᱞᱟᱹ ᱢᱮᱫ ᱞᱮᱠᱷᱟ</annotation>
+		<annotation cp="🫣" draft="unconfirmed">ᱢᱮᱫ ᱛᱮ ᱩᱭᱩᱝᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫣" type="tts" draft="unconfirmed">ᱢᱮᱫ ᱛᱮ ᱩᱭᱩᱝᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤫" draft="unconfirmed">ᱪᱩᱯ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤫" type="tts" draft="unconfirmed">ᱪᱩᱯ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤔" draft="unconfirmed">ᱵᱤᱪᱟᱹᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤔" type="tts" draft="unconfirmed">ᱵᱤᱪᱟᱹᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫡" draft="unconfirmed">ᱥᱮᱞᱭᱩᱴ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫡" type="tts" draft="unconfirmed">ᱥᱮᱞᱭᱩᱴ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤐" draft="unconfirmed">ᱢᱚᱲᱟ ᱡᱤᱯ</annotation>
+		<annotation cp="🤐" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱡᱤᱯ</annotation>
+		<annotation cp="🤨" draft="unconfirmed">ᱢᱚᱲᱟ ᱨᱮ ᱢᱮᱫ ᱠᱩᱴᱤ ᱩᱵ ᱛᱩᱞ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="🤨" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱨᱮ ᱢᱮᱫ ᱠᱩᱴᱤ ᱩᱵ ᱛᱩᱞ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="😐" draft="unconfirmed">ᱛᱟᱞᱟᱢᱟᱞᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😐" type="tts" draft="unconfirmed">ᱛᱟᱞᱟᱢᱟᱞᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😑" draft="unconfirmed">ᱥᱩᱱ ᱞᱟᱹᱭᱯᱟᱥᱱᱟᱣ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😑" type="tts" draft="unconfirmed">ᱥᱩᱱ ᱞᱟᱹᱭᱯᱟᱥᱱᱟᱣ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😶" draft="unconfirmed">ᱵᱤᱱ ᱢᱚᱪᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😶" type="tts" draft="unconfirmed">ᱵᱤᱱ ᱢᱚᱪᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫥" draft="unconfirmed">ᱰᱚᱴ ᱞᱟᱭᱤᱱ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫥" type="tts" draft="unconfirmed">ᱰᱚᱴ ᱞᱟᱭᱤᱱ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😶‍🌫" draft="unconfirmed">ᱢᱚᱲᱟ ᱨᱮ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="😶‍🌫" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱨᱮ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="😏" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😏" type="tts" draft="unconfirmed">ᱞᱟᱱᱫᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😒" draft="unconfirmed">ᱵᱮᱠᱷᱟᱛᱤᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😒" type="tts" draft="unconfirmed">ᱵᱮᱠᱷᱟᱛᱤᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🙄" draft="unconfirmed">ᱜᱩᱰᱨᱟᱹᱣ ᱢᱮᱫ ᱠᱩᱴᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🙄" type="tts" draft="unconfirmed">ᱜᱩᱰᱨᱟᱹᱣ ᱢᱮᱫ ᱠᱩᱴᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😬" draft="unconfirmed">ᱤᱥᱤᱲ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😬" type="tts" draft="unconfirmed">ᱤᱥᱤᱲ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😮‍💨" draft="unconfirmed">ᱦᱟᱣᱟ ᱚᱰᱚᱠ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😮‍💨" type="tts" draft="unconfirmed">ᱦᱟᱣᱟ ᱚᱰᱚᱠ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤥" draft="unconfirmed">ᱮᱲᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤥" type="tts" draft="unconfirmed">ᱮᱲᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫨" draft="unconfirmed">ᱨᱩᱠᱩ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫨" type="tts" draft="unconfirmed">ᱨᱩᱠᱩ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😌" draft="unconfirmed">ᱚᱪᱤᱱᱛᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😌" type="tts" draft="unconfirmed">ᱚᱪᱤᱱᱛᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😔" draft="unconfirmed">ᱪᱤᱱᱛᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😔" type="tts" draft="unconfirmed">ᱪᱤᱱᱛᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😪" draft="unconfirmed">ᱡᱟᱹᱯᱤᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😪" type="tts" draft="unconfirmed">ᱡᱟᱹᱯᱤᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤤" draft="unconfirmed">ᱩᱞᱤ ᱫᱟᱜ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤤" type="tts" draft="unconfirmed">ᱩᱞᱤ ᱫᱟᱜ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😴" draft="unconfirmed">ᱜᱤᱛᱤᱡ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😴" type="tts" draft="unconfirmed">ᱜᱤᱛᱤᱡ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😷" draft="unconfirmed">ᱢᱮᱰᱤᱠᱟᱞ ᱢᱟᱥᱠ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😷" type="tts" draft="unconfirmed">ᱢᱮᱰᱤᱠᱟᱞ ᱢᱟᱥᱠ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤒" draft="unconfirmed">ᱢᱚᱲᱟ ᱥᱟᱞᱟᱜ ᱛᱷᱚᱨᱢᱚᱢᱤᱴᱚᱨ</annotation>
+		<annotation cp="🤒" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ ᱥᱟᱞᱟᱜ ᱛᱷᱚᱨᱢᱚᱢᱤᱴᱚᱨ</annotation>
+		<annotation cp="🤕" draft="unconfirmed">ᱵᱮᱱᱰᱮᱡ ᱥᱟᱞᱟᱜ ᱛᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤕" type="tts" draft="unconfirmed">ᱵᱮᱱᱰᱮᱡ ᱥᱟᱞᱟᱜ ᱛᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤢" draft="unconfirmed">ᱩᱞᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤢" type="tts" draft="unconfirmed">ᱩᱞᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤮" draft="unconfirmed">ᱩᱞᱟᱹᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤮" type="tts" draft="unconfirmed">ᱩᱞᱟᱹᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤧" draft="unconfirmed">ᱪᱷᱩᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤧" type="tts" draft="unconfirmed">ᱪᱷᱩᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥵" draft="unconfirmed">ᱜᱚᱨᱚᱢ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥵" type="tts" draft="unconfirmed">ᱜᱚᱨᱚᱢ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥶" draft="unconfirmed">ᱨᱟᱵᱟᱝ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥶" type="tts" draft="unconfirmed">ᱨᱟᱵᱟᱝ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥴" draft="unconfirmed">ᱟᱹᱰᱤ ᱢᱚᱡᱽ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥴" type="tts" draft="unconfirmed">ᱟᱹᱰᱤ ᱢᱚᱡᱽ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😵" draft="unconfirmed">ᱛᱤᱨᱪᱷᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😵" type="tts" draft="unconfirmed">ᱛᱤᱨᱪᱷᱟᱹ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😵‍💫" draft="unconfirmed">ᱜᱷᱩᱨᱟᱹᱣ ᱢᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="😵‍💫" type="tts" draft="unconfirmed">ᱜᱷᱩᱨᱟᱹᱣ ᱢᱮᱫ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤯" draft="unconfirmed">ᱵᱚᱦᱚᱜ ᱚᱴᱚᱡᱚᱜ</annotation>
+		<annotation cp="🤯" type="tts" draft="unconfirmed">ᱵᱚᱦᱚᱜ ᱚᱴᱚᱡᱚᱜ</annotation>
+		<annotation cp="🤠" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ ᱜᱩᱯᱤ ᱜᱤᱫᱽᱨᱟᱹ ᱴᱩᱯᱤ</annotation>
+		<annotation cp="🤠" type="tts" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ ᱜᱩᱯᱤ ᱜᱤᱫᱽᱨᱟᱹ ᱴᱩᱯᱤ</annotation>
+		<annotation cp="🥳" draft="unconfirmed">ᱥᱚᱲᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🥳" type="tts" draft="unconfirmed">ᱥᱚᱲᱮ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤡" draft="unconfirmed">ᱡᱚᱠᱚᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🤡" type="tts" draft="unconfirmed">ᱡᱚᱠᱚᱨ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="👻" draft="unconfirmed">ᱵᱷᱩᱛ</annotation>
+		<annotation cp="👻" type="tts" draft="unconfirmed">ᱵᱷᱩᱛ</annotation>
+		<annotation cp="😺" draft="unconfirmed">ᱯᱩᱥᱤ ᱤᱥᱤᱲ ᱠᱟᱫᱟᱭ</annotation>
+		<annotation cp="😺" type="tts" draft="unconfirmed">ᱯᱩᱥᱤ ᱤᱥᱤᱲ ᱠᱟᱫᱟᱭ</annotation>
+		<annotation cp="💌" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲᱤᱭᱟᱹ ᱪᱤᱴᱷᱤ</annotation>
+		<annotation cp="💌" type="tts" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲᱤᱭᱟᱹ ᱪᱤᱴᱷᱤ</annotation>
+		<annotation cp="💕" draft="unconfirmed">ᱵᱟᱨᱭᱟ ᱨᱤᱫᱟᱹᱭ</annotation>
+		<annotation cp="💕" type="tts" draft="unconfirmed">ᱵᱟᱨᱭᱟ ᱨᱤᱫᱟᱹᱭ</annotation>
+		<annotation cp="💋" draft="unconfirmed">ᱪᱚᱜ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="💋" type="tts" draft="unconfirmed">ᱪᱚᱜ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="💯" draft="unconfirmed">ᱥᱟᱭ ᱯᱚᱮᱱᱴᱥ</annotation>
+		<annotation cp="💯" type="tts" draft="unconfirmed">ᱥᱟᱭ ᱯᱚᱮᱱᱴᱥ</annotation>
+		<annotation cp="💢" draft="unconfirmed">ᱨᱟᱹᱜᱤ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="💢" type="tts" draft="unconfirmed">ᱨᱟᱹᱜᱤ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="💦" draft="unconfirmed">ᱩᱫᱽᱜᱟᱹᱨ ᱡᱚᱨᱚ</annotation>
+		<annotation cp="💦" type="tts" draft="unconfirmed">ᱩᱫᱽᱜᱟᱹᱨ ᱡᱚᱨᱚ</annotation>
+		<annotation cp="🕳" draft="unconfirmed">ᱵᱷᱩᱜᱟᱹᱜ</annotation>
+		<annotation cp="🕳" type="tts" draft="unconfirmed">ᱵᱷᱩᱜᱟᱹᱜ</annotation>
+		<annotation cp="💬" draft="unconfirmed">ᱨᱚᱲ ᱵᱮᱞᱩᱱ</annotation>
+		<annotation cp="💬" type="tts" draft="unconfirmed">ᱨᱚᱲ ᱵᱮᱞᱩᱱ</annotation>
+		<annotation cp="👁‍🗨" draft="unconfirmed">ᱨᱮᱲ ᱢᱮᱫ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="👁‍🗨" type="tts" draft="unconfirmed">ᱨᱮᱲ ᱢᱮᱫ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="🗨" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱨᱚᱲ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="🗨" type="tts" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱨᱚᱲ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="🗯" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱨᱟᱹᱜᱤ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="🗯" type="tts" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱨᱟᱹᱜᱤ ᱨᱤᱢᱤᱞ</annotation>
+		<annotation cp="💭" draft="unconfirmed">ᱩᱭᱦᱟᱹᱨ ᱯᱷᱩᱠᱟᱹ</annotation>
+		<annotation cp="💭" type="tts" draft="unconfirmed">ᱩᱭᱦᱟᱹᱨ ᱯᱷᱩᱠᱟᱹ</annotation>
+		<annotation cp="💤" draft="unconfirmed">ᱡᱟᱹᱯᱤᱫ</annotation>
+		<annotation cp="💤" type="tts" draft="unconfirmed">ᱡᱟᱹᱯᱤᱫ</annotation>
+		<annotation cp="👋">ᱛᱤ | ᱛᱤ ᱦᱩᱨᱞᱟᱹ | ᱦᱩᱨᱞᱟ.</annotation>
+		<annotation cp="👋" type="tts">ᱛᱤ ᱦᱩᱨᱞᱟᱹ</annotation>
+		<annotation cp="🤚" draft="unconfirmed">ᱛᱤ ᱛᱩᱞ ᱨᱟᱠᱟᱵ</annotation>
+		<annotation cp="🤚" type="tts">ᱛᱤ ᱛᱩᱞ ᱨᱟᱠᱟᱵ</annotation>
+		<annotation cp="🖐" draft="unconfirmed">ᱛᱤ ᱠᱟᱹᱴᱩᱵ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="🖐" type="tts" draft="unconfirmed">ᱛᱤ ᱠᱟᱹᱴᱩᱵ ᱠᱚ ᱯᱟᱥᱱᱟᱣ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="✋" draft="unconfirmed">ᱛᱤ ᱛᱩᱞ</annotation>
+		<annotation cp="✋" type="tts" draft="unconfirmed">ᱛᱤ ᱛᱩᱞ</annotation>
+		<annotation cp="🖖" draft="unconfirmed">ᱛᱤ ᱥᱮᱞᱭᱩᱴ</annotation>
+		<annotation cp="🖖" type="tts" draft="unconfirmed">ᱛᱤ ᱥᱮᱞᱭᱩᱴ</annotation>
+		<annotation cp="🫱" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱛᱤ</annotation>
+		<annotation cp="🫱" type="tts" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱛᱤ</annotation>
+		<annotation cp="🫲" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱛᱤ</annotation>
+		<annotation cp="🫲" type="tts" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱛᱤ</annotation>
+		<annotation cp="🫳" draft="unconfirmed">ᱛᱤ ᱛᱟᱞᱠᱷᱟ ᱞᱟᱛᱟᱨ</annotation>
+		<annotation cp="🫳" type="tts" draft="unconfirmed">ᱛᱤ ᱛᱟᱞᱠᱷᱟ ᱞᱟᱛᱟᱨ</annotation>
+		<annotation cp="🫴" draft="unconfirmed">ᱛᱤ ᱛᱟᱞᱠᱷᱟ ᱪᱮᱛᱟᱱ</annotation>
+		<annotation cp="🫴" type="tts" draft="unconfirmed">ᱛᱤ ᱛᱟᱞᱠᱷᱟ ᱪᱮᱛᱟᱱ</annotation>
+		<annotation cp="👌" draft="unconfirmed">ᱛᱤ ᱛᱮ ᱜᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="👌" type="tts" draft="unconfirmed">ᱛᱤ ᱛᱮ ᱜᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="🖕" draft="unconfirmed">ᱛᱟᱞᱟ ᱠᱟᱹᱴᱩᱵ</annotation>
+		<annotation cp="🖕" type="tts" draft="unconfirmed">ᱛᱟᱞᱟ ᱠᱟᱹᱴᱩᱵ</annotation>
+		<annotation cp="👇" draft="unconfirmed">ᱞᱟᱛᱟᱨ ᱥᱮᱫ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="👇" type="tts" draft="unconfirmed">ᱞᱟᱛᱟᱨ ᱥᱮᱫ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="☝" draft="unconfirmed">ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="☝" type="tts" draft="unconfirmed">ᱪᱮᱛᱟᱱ ᱥᱮᱫ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="🫵" draft="unconfirmed">ᱦᱚᱲ ᱥᱮᱱ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="🫵" type="tts" draft="unconfirmed">ᱦᱚᱲ ᱥᱮᱱ ᱩᱫᱩᱜ</annotation>
+		<annotation cp="👍" draft="unconfirmed">ᱮᱝᱜᱟ ᱠᱟᱹᱴᱩᱵ ᱫᱮᱠᱷᱟᱣ</annotation>
+		<annotation cp="👍" type="tts">ᱮᱝᱜᱟ ᱠᱟᱹᱴᱩᱵ ᱫᱮᱠᱷᱟᱣ</annotation>
+		<annotation cp="👎" draft="unconfirmed">ᱮᱝᱜᱟ ᱠᱟᱹᱴᱩᱵ ᱩᱞᱴᱟᱹ</annotation>
+		<annotation cp="👎" type="tts" draft="unconfirmed">ᱮᱝᱜᱟ ᱠᱟᱹᱴᱩᱵ ᱩᱞᱴᱟᱹ</annotation>
+		<annotation cp="✊" draft="unconfirmed">ᱢᱩᱴᱷᱟᱹ ᱛᱩᱞ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="✊" type="tts" draft="unconfirmed">ᱢᱩᱴᱷᱟᱹ ᱛᱩᱞ ᱠᱟᱱᱟ</annotation>
+		<annotation cp="👊" draft="unconfirmed">ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="👊" type="tts" draft="unconfirmed">ᱦᱟᱹᱡᱩᱜ ᱠᱟᱱ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="🤛" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱢᱩᱦᱟᱹ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="🤛" type="tts" draft="unconfirmed">ᱞᱮᱝᱜᱟ ᱢᱩᱦᱟᱹ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="🤜" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱢᱩᱦᱟᱹ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="🤜" type="tts" draft="unconfirmed">ᱡᱚᱡᱚᱢ ᱢᱩᱦᱟᱹ ᱢᱩᱴᱷᱟᱹ</annotation>
+		<annotation cp="👏" draft="unconfirmed">ᱛᱷᱟᱭᱚ ᱛᱤ</annotation>
+		<annotation cp="👏" type="tts" draft="unconfirmed">ᱛᱷᱟᱭᱚ ᱛᱤ</annotation>
+		<annotation cp="🙌" draft="unconfirmed">ᱛᱩᱞ ᱛᱤ</annotation>
+		<annotation cp="🙌" type="tts" draft="unconfirmed">ᱛᱩᱞ ᱛᱤ</annotation>
+		<annotation cp="🫶" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱛᱤ</annotation>
+		<annotation cp="🫶" type="tts" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱛᱤ</annotation>
+		<annotation cp="👐" draft="unconfirmed">ᱠᱷᱩᱞᱟᱹ ᱛᱤ</annotation>
+		<annotation cp="👐" type="tts" draft="unconfirmed">ᱠᱷᱩᱞᱟᱹ ᱛᱤ</annotation>
+		<annotation cp="🤲" draft="unconfirmed">ᱥᱟᱶᱛᱮ ᱛᱤ ᱛᱟᱞᱠᱷᱟ</annotation>
+		<annotation cp="🤲" type="tts" draft="unconfirmed">ᱥᱟᱶᱛᱮ ᱛᱤ ᱛᱟᱞᱠᱷᱟ</annotation>
+		<annotation cp="🤝" draft="unconfirmed">ᱛᱤ ᱢᱮᱲᱟᱣ</annotation>
+		<annotation cp="🤝" type="tts" draft="unconfirmed">ᱛᱤ ᱢᱮᱲᱟᱣ</annotation>
+		<annotation cp="🙏" draft="unconfirmed">ᱡᱚᱦᱟᱨ</annotation>
+		<annotation cp="🙏" type="tts" draft="unconfirmed">ᱡᱚᱦᱟᱨ</annotation>
+		<annotation cp="✍" draft="unconfirmed">ᱚᱞ ᱛᱤ</annotation>
+		<annotation cp="✍" type="tts" draft="unconfirmed">ᱚᱞ ᱛᱤ</annotation>
+		<annotation cp="💅" draft="unconfirmed">ᱨᱟᱢᱟ ᱡᱚᱛᱚᱱ</annotation>
+		<annotation cp="💅" type="tts" draft="unconfirmed">ᱨᱟᱢᱟ ᱡᱚᱛᱚᱱ</annotation>
+		<annotation cp="🤳" draft="unconfirmed">ᱥᱮᱞᱯᱷᱤ</annotation>
+		<annotation cp="🤳" type="tts" draft="unconfirmed">ᱥᱮᱞᱯᱷᱤ</annotation>
+		<annotation cp="👂" draft="unconfirmed">ᱞᱩᱛᱩᱨ</annotation>
+		<annotation cp="👂" type="tts" draft="unconfirmed">ᱞᱩᱛᱩᱨ</annotation>
+		<annotation cp="🦷" draft="unconfirmed">ᱰᱟᱴᱟ</annotation>
+		<annotation cp="🦷" type="tts" draft="unconfirmed">ᱰᱟᱴᱟ</annotation>
+		<annotation cp="🦴" draft="unconfirmed">ᱡᱟᱝ</annotation>
+		<annotation cp="🦴" type="tts" draft="unconfirmed">ᱡᱟᱝ</annotation>
+		<annotation cp="👀" draft="unconfirmed">ᱢᱮᱫ</annotation>
+		<annotation cp="👀" type="tts" draft="unconfirmed">ᱢᱮᱫ</annotation>
+		<annotation cp="👶" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟ</annotation>
+		<annotation cp="👶" type="tts" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟ</annotation>
+		<annotation cp="🧒" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ</annotation>
+		<annotation cp="🧒" type="tts" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ</annotation>
+		<annotation cp="👦" draft="unconfirmed">ᱠᱚᱲᱟ</annotation>
+		<annotation cp="👦" type="tts" draft="unconfirmed">ᱠᱚᱲᱟ</annotation>
+		<annotation cp="👧" draft="unconfirmed">ᱠᱩᱲᱤ</annotation>
+		<annotation cp="👧" type="tts" draft="unconfirmed">ᱠᱩᱲᱤ</annotation>
+		<annotation cp="🧑" draft="unconfirmed">ᱦᱚᱲ ᱜᱮ</annotation>
+		<annotation cp="🧑" type="tts" draft="unconfirmed">ᱦᱚᱲ ᱜᱮ</annotation>
+		<annotation cp="👨" draft="unconfirmed">ᱦᱚᱲ</annotation>
+		<annotation cp="👨" type="tts" draft="unconfirmed">ᱦᱚᱲ</annotation>
+		<annotation cp="🧔‍♂" draft="unconfirmed">ᱦᱚᱲᱟᱜ ᱰᱟᱹᱰᱦᱤ</annotation>
+		<annotation cp="🧔‍♂" type="tts" draft="unconfirmed">ᱦᱚᱲᱟᱜ ᱰᱟᱹᱰᱦᱤ</annotation>
+		<annotation cp="👩" draft="unconfirmed">ᱢᱟᱹᱭᱡᱩ</annotation>
+		<annotation cp="👩" type="tts" draft="unconfirmed">ᱢᱟᱹᱭᱡᱩ</annotation>
+		<annotation cp="🧔‍♀" draft="unconfirmed">ᱢᱟᱹᱭᱡᱩ ᱫᱟᱹᱰᱦᱤ</annotation>
+		<annotation cp="🧔‍♀" type="tts" draft="unconfirmed">ᱢᱟᱹᱭᱡᱩ ᱫᱟᱹᱰᱦᱤ</annotation>
+		<annotation cp="🧓" draft="unconfirmed">ᱦᱟᱲᱟᱢ ᱦᱚᱲ ᱜᱮ</annotation>
+		<annotation cp="🧓" type="tts" draft="unconfirmed">ᱦᱟᱲᱟᱢ ᱦᱚᱲ ᱜᱮ</annotation>
+		<annotation cp="👴" draft="unconfirmed">ᱢᱟᱲᱟᱢ ᱦᱚᱲ</annotation>
+		<annotation cp="👴" type="tts" draft="unconfirmed">ᱢᱟᱲᱟᱢ ᱦᱚᱲ</annotation>
+		<annotation cp="👵" draft="unconfirmed">ᱵᱩᱰᱷᱤ</annotation>
+		<annotation cp="👵" type="tts" draft="unconfirmed">ᱵᱩᱰᱷᱤ</annotation>
+		<annotation cp="🧏‍♂" draft="unconfirmed">ᱠᱟᱞᱟ ᱦᱚᱲ</annotation>
+		<annotation cp="🧏‍♂" type="tts" draft="unconfirmed">ᱠᱟᱞᱟ ᱦᱚᱲ</annotation>
+		<annotation cp="🦰" draft="unconfirmed">ᱟᱨᱟᱜ ᱩᱵ</annotation>
+		<annotation cp="🦰" type="tts" draft="unconfirmed">ᱟᱨᱟᱜ ᱩᱵ</annotation>
+		<annotation cp="🦳" draft="unconfirmed">ᱯᱩᱸᱱᱰ ᱩᱵ</annotation>
+		<annotation cp="🦳" type="tts" draft="unconfirmed">ᱯᱩᱸᱱᱰ ᱩᱵ</annotation>
+		<annotation cp="🐵" draft="unconfirmed">ᱦᱟᱹᱬᱩ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐵" type="tts" draft="unconfirmed">ᱦᱟᱹᱬᱩ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐒" draft="unconfirmed">ᱦᱟᱹᱬᱩ</annotation>
+		<annotation cp="🐒" type="tts" draft="unconfirmed">ᱦᱟᱹᱬᱩ</annotation>
+		<annotation cp="🦍" draft="unconfirmed">ᱜᱚᱨᱤᱞᱟ</annotation>
+		<annotation cp="🦍" type="tts" draft="unconfirmed">ᱜᱚᱨᱤᱞᱟ</annotation>
+		<annotation cp="🦧" draft="unconfirmed">ᱚᱨᱟᱝᱜᱩᱴᱟᱱ</annotation>
+		<annotation cp="🦧" type="tts" draft="unconfirmed">ᱚᱨᱟᱝᱜᱩᱴᱟᱱ</annotation>
+		<annotation cp="🐶" draft="unconfirmed">ᱥᱮᱛᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐶" type="tts" draft="unconfirmed">ᱥᱮᱛᱟ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐕" draft="unconfirmed">ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐕" type="tts" draft="unconfirmed">ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🦮" draft="unconfirmed">ᱜᱚᱲᱚ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🦮" type="tts" draft="unconfirmed">ᱜᱚᱲᱚ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐕‍🦺" draft="unconfirmed">ᱠᱟᱹᱢᱤ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐕‍🦺" type="tts" draft="unconfirmed">ᱠᱟᱹᱢᱤ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐩" draft="unconfirmed">ᱞᱚᱢᱚᱥ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐩" type="tts" draft="unconfirmed">ᱞᱚᱢᱚᱥ ᱥᱮᱛᱟ</annotation>
+		<annotation cp="🐺" draft="unconfirmed">ᱦᱟᱰᱜᱟᱨ</annotation>
+		<annotation cp="🐺" type="tts" draft="unconfirmed">ᱦᱟᱰᱜᱟᱨ</annotation>
+		<annotation cp="🦊" draft="unconfirmed">ᱛᱩᱭᱩ</annotation>
+		<annotation cp="🦊" type="tts" draft="unconfirmed">ᱛᱩᱭᱩ</annotation>
+		<annotation cp="🐱" draft="unconfirmed">ᱯᱩᱥᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐱" type="tts" draft="unconfirmed">ᱯᱩᱥᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐈" draft="unconfirmed">ᱯᱩᱥᱤ</annotation>
+		<annotation cp="🐈" type="tts" draft="unconfirmed">ᱯᱩᱥᱤ</annotation>
+		<annotation cp="🐈‍⬛" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱯᱩᱥᱤ</annotation>
+		<annotation cp="🐈‍⬛" type="tts" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱯᱩᱥᱤ</annotation>
+		<annotation cp="🦁" draft="unconfirmed">ᱠᱩᱞ</annotation>
+		<annotation cp="🦁" type="tts" draft="unconfirmed">ᱠᱩᱞ</annotation>
+		<annotation cp="🐯" draft="unconfirmed">ᱛᱟᱹᱨᱩᱵ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐯" type="tts" draft="unconfirmed">ᱛᱟᱹᱨᱩᱵ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐅" draft="unconfirmed">ᱛᱟᱹᱨᱩᱵ</annotation>
+		<annotation cp="🐅" type="tts" draft="unconfirmed">ᱛᱟᱹᱨᱩᱵ</annotation>
+		<annotation cp="🐆" draft="unconfirmed">ᱪᱮᱴᱨᱟ</annotation>
+		<annotation cp="🐆" type="tts" draft="unconfirmed">ᱪᱮᱴᱨᱟ</annotation>
+		<annotation cp="🐴" draft="unconfirmed">ᱥᱟᱫᱚᱢ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐴" type="tts" draft="unconfirmed">ᱥᱟᱫᱚᱢ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🫏" draft="unconfirmed">ᱜᱟᱫᱷᱟ</annotation>
+		<annotation cp="🫏" type="tts" draft="unconfirmed">ᱜᱟᱫᱷᱟ</annotation>
+		<annotation cp="🐎" draft="unconfirmed">ᱥᱟᱫᱚᱢ</annotation>
+		<annotation cp="🐎" type="tts" draft="unconfirmed">ᱥᱟᱫᱚᱢ</annotation>
+		<annotation cp="🦌" draft="unconfirmed">ᱥᱮᱞᱮᱵ</annotation>
+		<annotation cp="🦌" type="tts" draft="unconfirmed">ᱥᱮᱞᱮᱵ</annotation>
+		<annotation cp="🐮" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐮" type="tts" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐃" draft="unconfirmed">ᱫᱟᱜ ᱠᱟᱲᱟ</annotation>
+		<annotation cp="🐃" type="tts" draft="unconfirmed">ᱫᱟᱜ ᱠᱟᱲᱟ</annotation>
+		<annotation cp="🐄" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ</annotation>
+		<annotation cp="🐄" type="tts" draft="unconfirmed">ᱰᱟᱹᱝᱜᱽᱨᱤ</annotation>
+		<annotation cp="🐷" draft="unconfirmed">ᱥᱩᱠᱨᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐷" type="tts" draft="unconfirmed">ᱥᱩᱠᱨᱤ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐖" draft="unconfirmed">ᱥᱩᱠᱨᱤ</annotation>
+		<annotation cp="🐖" type="tts" draft="unconfirmed">ᱥᱩᱠᱨᱤ</annotation>
+		<annotation cp="🐐" draft="unconfirmed">ᱢᱮᱨᱚᱢ</annotation>
+		<annotation cp="🐐" type="tts" draft="unconfirmed">ᱢᱮᱨᱚᱢ</annotation>
+		<annotation cp="🐪" draft="unconfirmed">ᱩᱱᱴᱷ</annotation>
+		<annotation cp="🐪" type="tts" draft="unconfirmed">ᱩᱱᱴᱷ</annotation>
+		<annotation cp="🐘" draft="unconfirmed">ᱦᱟᱹᱛᱤ</annotation>
+		<annotation cp="🐘" type="tts" draft="unconfirmed">ᱦᱟᱹᱛᱤ</annotation>
+		<annotation cp="🐁" draft="unconfirmed">ᱜᱩᱰᱩ</annotation>
+		<annotation cp="🐁" type="tts" draft="unconfirmed">ᱜᱩᱰᱩ</annotation>
+		<annotation cp="🐀" draft="unconfirmed">ᱪᱩᱱᱫ</annotation>
+		<annotation cp="🐀" type="tts" draft="unconfirmed">ᱪᱩᱱᱫ</annotation>
+		<annotation cp="🐰" draft="unconfirmed">ᱠᱩᱞᱟᱹᱭ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐰" type="tts" draft="unconfirmed">ᱠᱩᱞᱟᱹᱭ ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐇" draft="unconfirmed">ᱠᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="🐇" type="tts" draft="unconfirmed">ᱠᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="🦇" draft="unconfirmed">ᱵᱟᱹᱨᱫᱩᱬᱤᱡ</annotation>
+		<annotation cp="🦇" type="tts" draft="unconfirmed">ᱵᱟᱹᱨᱫᱩᱬᱤᱡ</annotation>
+		<annotation cp="🐻" draft="unconfirmed">ᱵᱟᱱᱟ</annotation>
+		<annotation cp="🐻" type="tts" draft="unconfirmed">ᱵᱟᱱᱟ</annotation>
+		<annotation cp="🐔" draft="unconfirmed">ᱥᱤᱢ</annotation>
+		<annotation cp="🐔" type="tts" draft="unconfirmed">ᱥᱤᱢ</annotation>
+		<annotation cp="🐤" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ ᱥᱤᱢ</annotation>
+		<annotation cp="🐤" type="tts" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ ᱥᱤᱢ</annotation>
+		<annotation cp="🐥" draft="unconfirmed">ᱥᱤᱫᱷᱟᱹ ᱥᱟᱢᱟᱝᱮᱫ ᱜᱤᱫᱽᱨᱟᱹ ᱥᱤᱢ</annotation>
+		<annotation cp="🐥" type="tts" draft="unconfirmed">ᱥᱤᱫᱷᱟᱹ ᱥᱟᱢᱟᱝᱮᱫ ᱜᱤᱫᱽᱨᱟᱹ ᱥᱤᱢ</annotation>
+		<annotation cp="🐦" draft="unconfirmed">ᱪᱮᱬᱮᱸ</annotation>
+		<annotation cp="🐦" type="tts" draft="unconfirmed">ᱪᱮᱬᱮᱸ</annotation>
+		<annotation cp="🦉" draft="unconfirmed">ᱠᱚᱠᱚᱨ</annotation>
+		<annotation cp="🦉" type="tts" draft="unconfirmed">ᱠᱚᱠᱚᱨ</annotation>
+		<annotation cp="🪶" draft="unconfirmed">ᱤᱞ</annotation>
+		<annotation cp="🪶" type="tts" draft="unconfirmed">ᱤᱞ</annotation>
+		<annotation cp="🦜" draft="unconfirmed">ᱢᱤᱨᱩ</annotation>
+		<annotation cp="🦜" type="tts" draft="unconfirmed">ᱢᱤᱨᱩ</annotation>
+		<annotation cp="🪽" draft="unconfirmed">ᱯᱷᱟᱹᱠᱬᱟᱹᱜ</annotation>
+		<annotation cp="🪽" type="tts" draft="unconfirmed">ᱯᱷᱟᱹᱠᱬᱟᱹᱜ</annotation>
+		<annotation cp="🐦‍⬛" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱪᱮᱬᱮ</annotation>
+		<annotation cp="🐦‍⬛" type="tts" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱪᱮᱬᱮ</annotation>
+		<annotation cp="🐸" draft="unconfirmed">ᱨᱮᱴᱚ</annotation>
+		<annotation cp="🐸" type="tts" draft="unconfirmed">ᱨᱮᱴᱚ</annotation>
+		<annotation cp="🐢" draft="unconfirmed">ᱦᱚᱨᱚ</annotation>
+		<annotation cp="🐢" type="tts" draft="unconfirmed">ᱦᱚᱨᱚ</annotation>
+		<annotation cp="🦎" draft="unconfirmed">ᱪᱮᱨᱪᱮᱴᱮᱡ</annotation>
+		<annotation cp="🦎" type="tts" draft="unconfirmed">ᱪᱮᱨᱪᱮᱴᱮᱡ</annotation>
+		<annotation cp="🐍" draft="unconfirmed">ᱵᱤᱝ</annotation>
+		<annotation cp="🐍" type="tts" draft="unconfirmed">ᱵᱤᱝ</annotation>
+		<annotation cp="🐲" draft="unconfirmed">ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐲" type="tts" draft="unconfirmed">ᱢᱚᱲᱟ</annotation>
+		<annotation cp="🐟" draft="unconfirmed">ᱦᱟᱹᱠᱩ</annotation>
+		<annotation cp="🐟" type="tts" draft="unconfirmed">ᱦᱟᱹᱠᱩ</annotation>
+		<annotation cp="🐙" draft="unconfirmed">ᱤᱨᱟᱹᱞ ᱠᱟᱴᱟ ᱦᱟᱹᱠᱩ</annotation>
+		<annotation cp="🐙" type="tts" draft="unconfirmed">ᱤᱨᱟᱹᱞ ᱠᱟᱴᱟ ᱦᱟᱹᱠᱩ</annotation>
+		<annotation cp="🐚" draft="unconfirmed">ᱨᱚᱠᱚᱡ ᱪᱷᱤᱞᱠᱟᱹ</annotation>
+		<annotation cp="🐚" type="tts" draft="unconfirmed">ᱨᱚᱠᱚᱡ ᱪᱷᱤᱞᱠᱟᱹ</annotation>
+		<annotation cp="🦀" draft="unconfirmed">ᱠᱟᱴᱠᱚᱢ</annotation>
+		<annotation cp="🦀" type="tts" draft="unconfirmed">ᱠᱟᱴᱠᱚᱢ</annotation>
+		<annotation cp="🐌" draft="unconfirmed">ᱨᱚᱠᱚᱡ</annotation>
+		<annotation cp="🐌" type="tts" draft="unconfirmed">ᱨᱚᱠᱚᱡ</annotation>
+		<annotation cp="🦋" draft="unconfirmed">ᱯᱤᱯᱤᱲᱤᱭᱟᱹ</annotation>
+		<annotation cp="🦋" type="tts" draft="unconfirmed">ᱯᱤᱯᱤᱲᱤᱭᱟᱹ</annotation>
+		<annotation cp="🐛" draft="unconfirmed">ᱩᱨᱩ</annotation>
+		<annotation cp="🐛" type="tts" draft="unconfirmed">ᱩᱨᱩ</annotation>
+		<annotation cp="🐜" draft="unconfirmed">ᱢᱩᱡ</annotation>
+		<annotation cp="🐜" type="tts" draft="unconfirmed">ᱢᱩᱡ</annotation>
+		<annotation cp="🐝" draft="unconfirmed">ᱥᱩᱥᱩᱨᱵᱟᱝ</annotation>
+		<annotation cp="🐝" type="tts" draft="unconfirmed">ᱥᱩᱥᱩᱨᱵᱟᱝ</annotation>
+		<annotation cp="🕷" draft="unconfirmed">ᱵᱤᱱᱫᱤ</annotation>
+		<annotation cp="🕷" type="tts" draft="unconfirmed">ᱵᱤᱱᱫᱤ</annotation>
+		<annotation cp="🕸" draft="unconfirmed">ᱵᱤᱱᱫᱤ ᱡᱟᱹᱞᱤ</annotation>
+		<annotation cp="🕸" type="tts" draft="unconfirmed">ᱵᱤᱱᱫᱤ ᱡᱟᱹᱞᱤ</annotation>
+		<annotation cp="🦟" draft="unconfirmed">ᱥᱤᱠᱬᱤᱡ</annotation>
+		<annotation cp="🦟" type="tts" draft="unconfirmed">ᱥᱤᱠᱬᱤᱡ</annotation>
+		<annotation cp="🪱" draft="unconfirmed">ᱛᱤᱡᱩ</annotation>
+		<annotation cp="🪱" type="tts" draft="unconfirmed">ᱛᱤᱡᱩ</annotation>
+		<annotation cp="💐" draft="unconfirmed">ᱵᱟᱦᱟ ᱜᱩᱪᱷᱟᱹ</annotation>
+		<annotation cp="💐" type="tts" draft="unconfirmed">ᱵᱟᱦᱟ ᱜᱩᱪᱷᱟᱹ</annotation>
+		<annotation cp="🌸" draft="unconfirmed">ᱪᱮᱨᱭ ᱠᱷᱤᱞᱟᱹᱣ</annotation>
+		<annotation cp="🌸" type="tts" draft="unconfirmed">ᱪᱮᱨᱭ ᱠᱷᱤᱞᱟᱹᱣ</annotation>
+		<annotation cp="💮" draft="unconfirmed">ᱯᱩᱸᱰ ᱵᱟᱦᱟ</annotation>
+		<annotation cp="💮" type="tts" draft="unconfirmed">ᱯᱩᱸᱰ ᱵᱟᱦᱟ</annotation>
+		<annotation cp="🪷" draft="unconfirmed">ᱯᱚᱨᱟᱭᱱᱤ</annotation>
+		<annotation cp="🪷" type="tts" draft="unconfirmed">ᱯᱚᱨᱟᱭᱱᱤ</annotation>
+		<annotation cp="🌹" draft="unconfirmed">ᱜᱩᱞᱟᱹᱯ</annotation>
+		<annotation cp="🌹" type="tts" draft="unconfirmed">ᱜᱩᱞᱟᱹᱯ</annotation>
+		<annotation cp="🌱" draft="unconfirmed">ᱜᱚᱡᱟ</annotation>
+		<annotation cp="🌱" type="tts" draft="unconfirmed">ᱜᱚᱡᱟ</annotation>
+		<annotation cp="🍄" draft="unconfirmed">ᱩᱫ</annotation>
+		<annotation cp="🍄" type="tts" draft="unconfirmed">ᱩᱫ</annotation>
+		<annotation cp="🍇" draft="unconfirmed">ᱚᱝᱜᱩᱨ</annotation>
+		<annotation cp="🍇" type="tts" draft="unconfirmed">ᱚᱝᱜᱩᱨ</annotation>
+		<annotation cp="🍈" draft="unconfirmed">ᱛᱟᱹᱨᱵᱩᱡ</annotation>
+		<annotation cp="🍈" type="tts" draft="unconfirmed">ᱛᱟᱹᱨᱵᱩᱡ</annotation>
+		<annotation cp="🍉" draft="unconfirmed">ᱫᱟᱜ ᱛᱟᱹᱨᱵᱩᱡ</annotation>
+		<annotation cp="🍉" type="tts" draft="unconfirmed">ᱫᱟᱜ ᱛᱟᱹᱨᱵᱩᱡ</annotation>
+		<annotation cp="🍊" draft="unconfirmed">ᱡᱟᱹᱢᱵᱤᱨ</annotation>
+		<annotation cp="🍊" type="tts" draft="unconfirmed">ᱡᱟᱹᱢᱵᱤᱨ</annotation>
+		<annotation cp="🍋" draft="unconfirmed">ᱞᱮᱢᱵᱩ</annotation>
+		<annotation cp="🍋" type="tts" draft="unconfirmed">ᱞᱮᱢᱵᱩ</annotation>
+		<annotation cp="🍌" draft="unconfirmed">ᱠᱟᱭᱨᱟ</annotation>
+		<annotation cp="🍌" type="tts" draft="unconfirmed">ᱠᱟᱭᱨᱟ</annotation>
+		<annotation cp="🍍" draft="unconfirmed">ᱚᱱᱟᱨ</annotation>
+		<annotation cp="🍍" type="tts" draft="unconfirmed">ᱚᱱᱟᱨ</annotation>
+		<annotation cp="🥭" draft="unconfirmed">ᱩᱞ</annotation>
+		<annotation cp="🥭" type="tts" draft="unconfirmed">ᱩᱞ</annotation>
+		<annotation cp="🍎" draft="unconfirmed">ᱟᱨᱟᱜ ᱥᱮᱣ</annotation>
+		<annotation cp="🍎" type="tts" draft="unconfirmed">ᱟᱨᱟᱜ ᱥᱮᱣ</annotation>
+		<annotation cp="🍏" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱮᱣ</annotation>
+		<annotation cp="🍏" type="tts" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱮᱣ</annotation>
+		<annotation cp="🥝" draft="unconfirmed">ᱠᱤᱣᱤ ᱡᱚ</annotation>
+		<annotation cp="🥝" type="tts" draft="unconfirmed">ᱠᱤᱣᱤ ᱡᱚ</annotation>
+		<annotation cp="🍅" draft="unconfirmed">ᱵᱤᱞᱟᱹᱛ</annotation>
+		<annotation cp="🍅" type="tts" draft="unconfirmed">ᱵᱤᱞᱟᱹᱛ</annotation>
+		<annotation cp="🫒" draft="unconfirmed">ᱚᱞᱟᱭᱤᱵ</annotation>
+		<annotation cp="🫒" type="tts" draft="unconfirmed">ᱚᱞᱟᱭᱤᱵ</annotation>
+		<annotation cp="🥥" draft="unconfirmed">ᱱᱩᱲᱤᱭᱟᱹ</annotation>
+		<annotation cp="🥥" type="tts" draft="unconfirmed">ᱱᱩᱲᱤᱭᱟᱹ</annotation>
+		<annotation cp="🥑" draft="unconfirmed">ᱟᱣᱚᱠᱟᱨᱰᱚ</annotation>
+		<annotation cp="🥑" type="tts" draft="unconfirmed">ᱟᱣᱚᱠᱟᱨᱰᱚ</annotation>
+		<annotation cp="🍆" draft="unconfirmed">ᱵᱮᱝᱜᱟᱲ</annotation>
+		<annotation cp="🍆" type="tts" draft="unconfirmed">ᱵᱮᱝᱜᱟᱲ</annotation>
+		<annotation cp="🥔" draft="unconfirmed">ᱟᱹᱲᱩ</annotation>
+		<annotation cp="🥔" type="tts" draft="unconfirmed">ᱟᱹᱲᱩ</annotation>
+		<annotation cp="🥕" draft="unconfirmed">ᱜᱚᱡᱚᱨ</annotation>
+		<annotation cp="🥕" type="tts" draft="unconfirmed">ᱜᱚᱡᱚᱨ</annotation>
+		<annotation cp="🌶" draft="unconfirmed">ᱢᱟᱹᱨᱤᱪ</annotation>
+		<annotation cp="🌶" type="tts" draft="unconfirmed">ᱢᱟᱹᱨᱤᱪ</annotation>
+		<annotation cp="🫑" draft="unconfirmed">ᱥᱤᱢᱞᱟᱹ ᱢᱟᱹᱨᱤᱪ</annotation>
+		<annotation cp="🫑" type="tts" draft="unconfirmed">ᱥᱤᱢᱞᱟᱹ ᱢᱟᱹᱨᱤᱪ</annotation>
+		<annotation cp="🥒" draft="unconfirmed">ᱛᱟᱦᱮᱨ</annotation>
+		<annotation cp="🥒" type="tts" draft="unconfirmed">ᱛᱟᱦᱮᱨ</annotation>
+		<annotation cp="🥬" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱟᱠᱟᱢ</annotation>
+		<annotation cp="🥬" type="tts" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱟᱠᱟᱢ</annotation>
+		<annotation cp="🥦" draft="unconfirmed">ᱵᱽᱨᱚᱠᱚᱞᱤ</annotation>
+		<annotation cp="🥦" type="tts" draft="unconfirmed">ᱵᱽᱨᱚᱠᱚᱞᱤ</annotation>
+		<annotation cp="🧄" draft="unconfirmed">ᱞᱮᱥᱩᱱ</annotation>
+		<annotation cp="🧄" type="tts" draft="unconfirmed">ᱞᱮᱥᱩᱱ</annotation>
+		<annotation cp="🧅" draft="unconfirmed">ᱯᱮᱭᱟᱡᱽ</annotation>
+		<annotation cp="🧅" type="tts" draft="unconfirmed">ᱯᱮᱭᱟᱡᱽ</annotation>
+		<annotation cp="🥜" draft="unconfirmed">ᱵᱟᱫᱟᱢ</annotation>
+		<annotation cp="🥜" type="tts" draft="unconfirmed">ᱵᱟᱫᱟᱢ</annotation>
+		<annotation cp="🫘" draft="unconfirmed">ᱢᱚᱴᱚᱨ</annotation>
+		<annotation cp="🫘" type="tts" draft="unconfirmed">ᱢᱚᱴᱚᱨ</annotation>
+		<annotation cp="🫚" draft="unconfirmed">ᱚᱫᱟ ᱨᱮᱦᱮᱫ</annotation>
+		<annotation cp="🫚" type="tts" draft="unconfirmed">ᱚᱫᱟ ᱨᱮᱦᱮᱫ</annotation>
+		<annotation cp="🫛" draft="unconfirmed">ᱢᱚᱴᱚᱨ ᱡᱚ</annotation>
+		<annotation cp="🫛" type="tts" draft="unconfirmed">ᱢᱚᱴᱚᱨ ᱡᱚ</annotation>
+		<annotation cp="🍞" draft="unconfirmed">ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🍞" type="tts" draft="unconfirmed">ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🥖" draft="unconfirmed">ᱡᱷᱟᱹᱞ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🥖" type="tts" draft="unconfirmed">ᱡᱷᱟᱹᱞ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🫓" draft="unconfirmed">ᱪᱚᱯᱴᱟ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🫓" type="tts" draft="unconfirmed">ᱪᱚᱯᱴᱟ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🥨" draft="unconfirmed">ᱯᱨᱮᱴᱡᱟᱞ</annotation>
+		<annotation cp="🥨" type="tts" draft="unconfirmed">ᱯᱨᱮᱴᱡᱟᱞ</annotation>
+		<annotation cp="🥯" draft="unconfirmed">ᱜᱩᱞ ᱞᱟᱹᱰᱩ</annotation>
+		<annotation cp="🥯" type="tts" draft="unconfirmed">ᱜᱩᱞ ᱞᱟᱹᱰᱩ</annotation>
+		<annotation cp="🥞" draft="unconfirmed">ᱠᱚᱰᱷᱟ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🥞" type="tts" draft="unconfirmed">ᱠᱚᱰᱷᱟ ᱯᱟᱸ ᱨᱩᱴᱤ</annotation>
+		<annotation cp="🍖" draft="unconfirmed">ᱡᱟᱝ ᱨᱮ ᱡᱤᱞ</annotation>
+		<annotation cp="🍖" type="tts" draft="unconfirmed">ᱡᱟᱝ ᱨᱮ ᱡᱤᱞ</annotation>
+		<annotation cp="🍗" draft="unconfirmed">ᱡᱟᱝ ᱡᱤᱞ</annotation>
+		<annotation cp="🍗" type="tts" draft="unconfirmed">ᱡᱟᱝ ᱡᱤᱞ</annotation>
+		<annotation cp="🥩" draft="unconfirmed">ᱜᱮᱫ ᱠᱟᱱ ᱡᱤᱞ</annotation>
+		<annotation cp="🥩" type="tts" draft="unconfirmed">ᱜᱮᱫ ᱠᱟᱱ ᱡᱤᱞ</annotation>
+		<annotation cp="🍕" draft="unconfirmed">ᱯᱤᱡᱟ</annotation>
+		<annotation cp="🍕" type="tts" draft="unconfirmed">ᱯᱤᱡᱟ</annotation>
+		<annotation cp="🥚" draft="unconfirmed">ᱵᱤᱞᱤ</annotation>
+		<annotation cp="🥚" type="tts" draft="unconfirmed">ᱵᱤᱞᱤ</annotation>
+		<annotation cp="🍳" draft="unconfirmed">ᱤᱥᱤᱱ</annotation>
+		<annotation cp="🍳" type="tts" draft="unconfirmed">ᱤᱥᱤᱱ</annotation>
+		<annotation cp="🥗" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱟᱞᱟᱰ</annotation>
+		<annotation cp="🥗" type="tts" draft="unconfirmed">ᱦᱟᱹᱨᱤᱭᱟᱹᱲ ᱥᱟᱞᱟᱰ</annotation>
+		<annotation cp="🧂" draft="unconfirmed">ᱵᱩᱞᱩᱢ</annotation>
+		<annotation cp="🧂" type="tts" draft="unconfirmed">ᱵᱩᱞᱩᱢ</annotation>
+		<annotation cp="🍙" draft="unconfirmed">ᱫᱟᱠᱟ ᱜᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="🍙" type="tts" draft="unconfirmed">ᱫᱟᱠᱟ ᱜᱩᱞᱟᱹᱭ</annotation>
+		<annotation cp="🍚" draft="unconfirmed">ᱤᱥᱤᱱ ᱠᱟᱱ ᱪᱟᱣᱞᱮ</annotation>
+		<annotation cp="🍚" type="tts" draft="unconfirmed">ᱤᱥᱤᱱ ᱠᱟᱱ ᱪᱟᱣᱞᱮ</annotation>
+		<annotation cp="🍨" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ ᱪᱷᱟᱞᱮ</annotation>
+		<annotation cp="🍨" type="tts" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ ᱪᱷᱟᱞᱮ</annotation>
+		<annotation cp="🍪" draft="unconfirmed">ᱞᱟᱹᱰᱩ</annotation>
+		<annotation cp="🍪" type="tts" draft="unconfirmed">ᱞᱟᱹᱰᱩ</annotation>
+		<annotation cp="🎂" draft="unconfirmed">ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱯᱤᱴᱷᱟᱹ</annotation>
+		<annotation cp="🎂" type="tts" draft="unconfirmed">ᱡᱟᱱᱟᱢ ᱢᱟᱦᱟᱸ ᱯᱤᱴᱷᱟᱹ</annotation>
+		<annotation cp="🍰" draft="unconfirmed">ᱠᱷᱟᱴᱚ ᱯᱤᱴᱷᱟᱹ</annotation>
+		<annotation cp="🍰" type="tts" draft="unconfirmed">ᱠᱷᱟᱴᱚ ᱯᱤᱴᱷᱟᱹ</annotation>
+		<annotation cp="🍬" draft="unconfirmed">ᱪᱚᱠᱞᱮᱴ</annotation>
+		<annotation cp="🍬" type="tts" draft="unconfirmed">ᱪᱚᱠᱞᱮᱴ</annotation>
+		<annotation cp="🥛" draft="unconfirmed">ᱢᱤᱫ ᱜᱤᱞᱟᱹᱥ ᱛᱚᱣᱟ</annotation>
+		<annotation cp="🥛" type="tts" draft="unconfirmed">ᱢᱤᱫ ᱜᱤᱞᱟᱹᱥ ᱛᱚᱣᱟ</annotation>
+		<annotation cp="🧊" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ</annotation>
+		<annotation cp="🧊" type="tts" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ</annotation>
+		<annotation cp="🥄" draft="unconfirmed">ᱪᱟᱹᱢᱩᱪ</annotation>
+		<annotation cp="🥄" type="tts" draft="unconfirmed">ᱪᱟᱹᱢᱩᱪ</annotation>
+		<annotation cp="🔪" draft="unconfirmed">ᱫᱟᱠᱟ ᱚᱲᱟᱜ ᱪᱷᱩᱨᱤ</annotation>
+		<annotation cp="🔪" type="tts" draft="unconfirmed">ᱫᱟᱠᱟ ᱚᱲᱟᱜ ᱪᱷᱩᱨᱤ</annotation>
+		<annotation cp="🫙" draft="unconfirmed">ᱡᱟᱨ</annotation>
+		<annotation cp="🫙" type="tts" draft="unconfirmed">ᱡᱟᱨ</annotation>
+		<annotation cp="🗺" draft="unconfirmed">ᱡᱮᱜᱮᱛ ᱱᱚᱠᱥᱟ</annotation>
+		<annotation cp="🗺" type="tts" draft="unconfirmed">ᱡᱮᱜᱮᱛ ᱱᱚᱠᱥᱟ</annotation>
+		<annotation cp="🗾" draft="unconfirmed">ᱡᱟᱯᱟᱱ ᱨᱮᱭᱟᱜ ᱱᱚᱠᱥᱟ</annotation>
+		<annotation cp="🗾" type="tts" draft="unconfirmed">ᱡᱟᱯᱟᱱ ᱨᱮᱭᱟᱜ ᱱᱚᱠᱥᱟ</annotation>
+		<annotation cp="🏔" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ ᱠᱟᱱ ᱵᱩᱨᱩ</annotation>
+		<annotation cp="🏔" type="tts" draft="unconfirmed">ᱵᱚᱨᱚᱯᱷ ᱠᱟᱱ ᱵᱩᱨᱩ</annotation>
+		<annotation cp="⛰" draft="unconfirmed">ᱵᱩᱨᱩ</annotation>
+		<annotation cp="⛰" type="tts" draft="unconfirmed">ᱵᱩᱨᱩ</annotation>
+		<annotation cp="🏟" draft="unconfirmed">ᱥᱴᱮᱰᱤᱭᱚᱢ</annotation>
+		<annotation cp="🏟" type="tts" draft="unconfirmed">ᱥᱴᱮᱰᱤᱭᱚᱢ</annotation>
+		<annotation cp="🧱" draft="unconfirmed">ᱤᱴᱟᱹ</annotation>
+		<annotation cp="🧱" type="tts" draft="unconfirmed">ᱤᱴᱟᱹ</annotation>
+		<annotation cp="🪨" draft="unconfirmed">ᱪᱟᱹᱴᱱᱤ</annotation>
+		<annotation cp="🪨" type="tts" draft="unconfirmed">ᱪᱟᱹᱴᱱᱤ</annotation>
+		<annotation cp="🪵" draft="unconfirmed">ᱠᱟᱴᱷ</annotation>
+		<annotation cp="🪵" type="tts" draft="unconfirmed">ᱠᱟᱴᱷ</annotation>
+		<annotation cp="🛖" draft="unconfirmed">ᱚᱲᱟᱜ</annotation>
+		<annotation cp="🛖" type="tts" draft="unconfirmed">ᱚᱲᱟᱜ</annotation>
+		<annotation cp="🏘" draft="unconfirmed">ᱚᱲᱟᱜ ᱠᱚ</annotation>
+		<annotation cp="🏘" type="tts" draft="unconfirmed">ᱚᱲᱟᱜ ᱠᱚ</annotation>
+		<annotation cp="🏨" draft="unconfirmed">ᱦᱚᱴᱮᱞ</annotation>
+		<annotation cp="🏨" type="tts" draft="unconfirmed">ᱦᱚᱴᱮᱞ</annotation>
+		<annotation cp="🏩" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱦᱚᱴᱮᱞ</annotation>
+		<annotation cp="🏩" type="tts" draft="unconfirmed">ᱫᱩᱞᱟᱹᱲ ᱦᱚᱴᱮᱞ</annotation>
+		<annotation cp="🎈" draft="unconfirmed">ᱯᱷᱩᱠᱟᱹ</annotation>
+		<annotation cp="🎈" type="tts" draft="unconfirmed">ᱯᱷᱩᱠᱟᱹ</annotation>
+		<annotation cp="🏏" draft="unconfirmed">ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ</annotation>
+		<annotation cp="🏏" type="tts" draft="unconfirmed">ᱠᱨᱤᱠᱮᱴ ᱠᱷᱮᱞ</annotation>
+		<annotation cp="🏸" draft="unconfirmed">ᱵᱮᱰᱢᱤᱱᱴᱚᱱ</annotation>
+		<annotation cp="🏸" type="tts" draft="unconfirmed">ᱵᱮᱰᱢᱤᱱᱴᱚᱱ</annotation>
+		<annotation cp="👓" draft="unconfirmed">ᱪᱚᱥᱢᱟ</annotation>
+		<annotation cp="👓" type="tts" draft="unconfirmed">ᱪᱚᱥᱢᱟ</annotation>
+		<annotation cp="🕶" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱪᱚᱥᱢᱟ</annotation>
+		<annotation cp="🕶" type="tts" draft="unconfirmed">ᱦᱮᱱᱫᱮ ᱪᱚᱥᱢᱟ</annotation>
+		<annotation cp="🥽" draft="unconfirmed">ᱢᱚᱴᱟ ᱪᱮᱥᱢᱟ</annotation>
+		<annotation cp="🥽" type="tts" draft="unconfirmed">ᱢᱚᱴᱟ ᱪᱮᱥᱢᱟ</annotation>
+		<annotation cp="🥼" draft="unconfirmed">ᱞᱮᱵ ᱠᱚᱴ | ᱡᱟᱠᱮᱴ | ᱫᱟᱠᱛᱚᱨ | ᱯᱩᱸᱰ ᱡᱟᱠᱮᱴ</annotation>
+		<annotation cp="🥼" type="tts" draft="unconfirmed">ᱞᱮᱵ ᱠᱚᱴ</annotation>
+		<annotation cp="👕" draft="unconfirmed">ᱥᱟᱴ</annotation>
+		<annotation cp="👕" type="tts" draft="unconfirmed">ᱥᱟᱴ</annotation>
+		<annotation cp="👖" draft="unconfirmed">ᱡᱤᱱᱥ</annotation>
+		<annotation cp="👖" type="tts" draft="unconfirmed">ᱡᱤᱱᱥ</annotation>
+		<annotation cp="🧥" type="tts" draft="unconfirmed">ᱠᱳᱴ</annotation>
+		<annotation cp="👗" draft="unconfirmed">ᱫᱚᱛᱚ</annotation>
+		<annotation cp="👗" type="tts" draft="unconfirmed">ᱫᱚᱛᱚ</annotation>
+		<annotation cp="🥻" draft="unconfirmed">ᱥᱟᱹᱰᱤ</annotation>
+		<annotation cp="🥻" type="tts" draft="unconfirmed">ᱥᱟᱹᱰᱤ</annotation>
+		<annotation cp="👛" draft="unconfirmed">ᱯᱚᱨᱥ</annotation>
+		<annotation cp="👛" type="tts" draft="unconfirmed">ᱯᱚᱨᱥ</annotation>
+		<annotation cp="👜" draft="unconfirmed">ᱛᱤᱵᱮᱜᱽ</annotation>
+		<annotation cp="👜" type="tts" draft="unconfirmed">ᱛᱤᱵᱮᱜᱽ</annotation>
+		<annotation cp="🩴" draft="unconfirmed">ᱥᱮᱱᱰᱮᱞ | ᱪᱚᱯᱚᱞ</annotation>
+		<annotation cp="🔔" draft="unconfirmed">ᱜᱷᱚᱱᱴᱤ</annotation>
+		<annotation cp="🔔" type="tts" draft="unconfirmed">ᱜᱷᱚᱱᱴᱤ</annotation>
+		<annotation cp="📱" draft="unconfirmed">ᱢᱚᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ</annotation>
+		<annotation cp="📱" type="tts" draft="unconfirmed">ᱢᱚᱵᱟᱭᱤᱞ ᱯᱷᱚᱱ</annotation>
+		<annotation cp="🔋" draft="unconfirmed">ᱵᱮᱴᱨᱭ</annotation>
+		<annotation cp="🔋" type="tts" draft="unconfirmed">ᱵᱮᱴᱨᱭ</annotation>
+		<annotation cp="🪫" draft="unconfirmed">ᱠᱚᱢ ᱵᱮᱴᱨᱭ</annotation>
+		<annotation cp="🪫" type="tts" draft="unconfirmed">ᱠᱚᱢ ᱵᱮᱴᱨᱭ</annotation>
+		<annotation cp="💻" draft="unconfirmed">ᱞᱮᱯᱴᱚᱯ</annotation>
+		<annotation cp="💻" type="tts" draft="unconfirmed">ᱞᱮᱯᱴᱚᱯ</annotation>
+		<annotation cp="🖥" draft="unconfirmed">ᱰᱮᱥᱠᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ</annotation>
+		<annotation cp="🖥" type="tts" draft="unconfirmed">ᱰᱮᱥᱠᱴᱚᱯ ᱠᱚᱢᱯᱩᱴᱚᱨ</annotation>
+		<annotation cp="🖊" type="tts" draft="unconfirmed">ᱱᱚᱱᱚᱞ</annotation>
+		<annotation cp="📁" draft="unconfirmed">ᱨᱮᱫᱽ</annotation>
+		<annotation cp="📁" type="tts" draft="unconfirmed">ᱨᱮᱫᱽ ᱯᱚᱴᱚᱢ</annotation>
+		<annotation cp="📂" draft="unconfirmed">ᱡᱷᱤᱡᱽ | ᱨᱮᱫᱽ | ᱯᱚᱴᱚᱢ</annotation>
+		<annotation cp="✂" draft="unconfirmed">ᱜᱮᱫᱽ | ᱡᱩᱞᱩᱯ | ᱥᱟᱠᱟᱢ | ᱦᱟᱹᱛᱤᱭᱟᱨ | ᱯᱮᱯᱚᱨ</annotation>
+		<annotation cp="✂" type="tts" draft="unconfirmed">ᱡᱩᱞᱩᱯ</annotation>
+		<annotation cp="🔒" draft="unconfirmed">ᱠᱩᱞᱩᱯ</annotation>
+		<annotation cp="🔒" type="tts" draft="unconfirmed">ᱠᱩᱞᱩᱯ</annotation>
+		<annotation cp="🔓" draft="unconfirmed">ᱠᱷᱩᱞᱟᱹ | ᱡᱷᱤᱡᱽ</annotation>
+		<annotation cp="🔓" type="tts" draft="unconfirmed">ᱡᱷᱤᱡᱽ</annotation>
+		<annotation cp="🔏" type="tts" draft="unconfirmed">ᱱᱚᱱᱚᱞ ᱛᱮ ᱠᱩᱞᱩᱯ</annotation>
+		<annotation cp="🔑" draft="unconfirmed">ᱠᱟᱹᱴᱷᱤ | ᱠᱩᱞᱩᱯ | ᱪᱟᱹᱵᱤ | ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ</annotation>
+		<annotation cp="🔑" type="tts" draft="unconfirmed">ᱪᱟᱹᱵᱤ</annotation>
+		<annotation cp="🗝" type="tts" draft="unconfirmed">ᱢᱟᱨᱮ ᱪᱟᱹᱵᱤ</annotation>
+		<annotation cp="💣" draft="unconfirmed">ᱵᱚᱢ</annotation>
+		<annotation cp="💣" type="tts" draft="unconfirmed">ᱵᱚᱢ</annotation>
+		<annotation cp="🏧" draft="unconfirmed">ATM ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="🏧" type="tts" draft="unconfirmed">ATM ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="🚼" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="🚼" type="tts" draft="unconfirmed">ᱜᱤᱫᱽᱨᱟᱹ ᱪᱤᱱᱦᱟᱹ</annotation>
+		<annotation cp="⚠" draft="unconfirmed">ᱦᱩᱥᱤᱭᱟᱹᱨ</annotation>
+		<annotation cp="⚠" type="tts" draft="unconfirmed">ᱦᱩᱥᱤᱭᱟᱹᱨ</annotation>
+		<annotation cp="⛔" draft="unconfirmed">ᱵᱚᱞᱚ ᱢᱟᱱᱟ ᱜᱮᱭᱟ</annotation>
+		<annotation cp="⛔" type="tts" draft="unconfirmed">ᱵᱚᱞᱚ ᱢᱟᱱᱟ ᱜᱮᱭᱟ</annotation>
+		<annotation cp="🎦" draft="unconfirmed">ᱥᱤᱱᱮᱢᱟ</annotation>
+		<annotation cp="🎦" type="tts" draft="unconfirmed">ᱥᱤᱱᱮᱢᱟ</annotation>
+		<annotation cp="🏴" draft="unconfirmed">ᱦᱮᱸᱫᱮ ᱪᱤᱨ</annotation>
+		<annotation cp="🏴" type="tts" draft="unconfirmed">ᱦᱮᱸᱫᱮ ᱪᱤᱨ</annotation>
+		<annotation cp="🏳" draft="unconfirmed">ᱯᱩᱸᱰ ᱪᱤᱨ</annotation>
+		<annotation cp="🏳" type="tts" draft="unconfirmed">ᱯᱩᱸᱰ ᱪᱤᱨ</annotation>
+		<annotation cp="0⃣" type="tts">ᱠᱤᱠᱮᱯ: 0</annotation>
+		<annotation cp="1⃣" type="tts">ᱠᱤᱠᱮᱯ: 1</annotation>
+		<annotation cp="2⃣" type="tts">ᱠᱤᱠᱮᱯ: 2</annotation>
+		<annotation cp="3⃣" type="tts">ᱠᱤᱠᱮᱯ: 3</annotation>
+		<annotation cp="4⃣" type="tts">ᱠᱤᱠᱮᱯ: 4</annotation>
+		<annotation cp="5⃣" type="tts">ᱠᱤᱠᱮᱯ: 5</annotation>
+		<annotation cp="6⃣" type="tts">ᱠᱤᱠᱮᱯ: 6</annotation>
+		<annotation cp="7⃣" type="tts">ᱠᱤᱠᱮᱯ: 7</annotation>
+		<annotation cp="8⃣" type="tts">ᱠᱤᱠᱮᱯ: 8</annotation>
+		<annotation cp="9⃣" type="tts">ᱠᱤᱠᱮᱯ: 9</annotation>
+	</annotations>
+</ldml>
